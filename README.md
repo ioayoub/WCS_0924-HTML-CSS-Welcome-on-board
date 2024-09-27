@@ -51,7 +51,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone git@github.com:ioayoub/WCS_0924-HTML-CSS-Welcome-on-board.git
    ```
 
 2. Navigate to the project directory:
