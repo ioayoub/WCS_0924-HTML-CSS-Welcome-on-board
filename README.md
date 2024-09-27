@@ -16,7 +16,7 @@ This is a simple, responsive webpage project that includes a navigation menu, re
 
 ## Demo
 
-You can view the project by opening the `index.html` file in your browser.
+You can view the project by opening the `index.html` file in your browser or by following this link: [Bienvenue à bord](https://ioayoub.github.io/WCS_0924-HTML-CSS-Welcome-on-board/src/index.html)
 
 ## Project Structure
 
@@ -57,7 +57,7 @@ To run this project locally:
 2. Navigate to the project directory:
 
    ```bash
-   cd yourproject
+   cd WCS_0924-HTML-CSS-Welcome-on-board
    ```
 
 3. Open the `index.html` file in your browser by double-clicking the file or using:
